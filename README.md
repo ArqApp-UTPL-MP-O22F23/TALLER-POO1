@@ -12,7 +12,7 @@ Disponible en la Biblioteca UTPL, vía Visor Web - UTPL. No olvide que antes de 
 
 > https://visorweb.utpl.edu.ec/reader/como-programar-en-java-1617638467?location=12
 
-Ejercicio: Capitulo 8. Pag. 357. Ejercicio 8.11. (Números complejos).
+Ejercicio: Capitulo 8. Pag. 356. Ejercicio 8.11. (Números complejos).
 
 Como complemento del taller, elabore el UML de su solución y publiquelo a continuación: 
 
